@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Xiao Visuals – Vibrant Visuals Deferred Pack for Minecraft Bedrock By XiaoCraft.",
+    "name": "Xiao Visuals",
+    "uuid": "a6554600-11a3-4d56-9756-b86ba753ce3e",
+    "version": [2, 5, 0],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "description": "Xiao Visuals Shader Module",
+      "type": "resources",
+      "uuid": "734977e3-526c-403d-8cca-6c81dd28f368",
+      "version": [2, 5, 0]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ]
+}
+
+
